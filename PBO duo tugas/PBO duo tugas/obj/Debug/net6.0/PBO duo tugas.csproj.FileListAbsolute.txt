@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.AssemblyInfo.cs
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\bin\Debug\net6.0\PBO duo tugas.exe
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\bin\Debug\net6.0\PBO duo tugas.deps.json
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\bin\Debug\net6.0\PBO duo tugas.runtimeconfig.json
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\bin\Debug\net6.0\PBO duo tugas.dll
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\bin\Debug\net6.0\PBO duo tugas.pdb
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.dll
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\refint\PBO duo tugas.dll
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.pdb
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\PBO duo tugas.genruntimeconfig.cache
+C:\Users\ACER\source\repos\PBO duo tugas\PBO duo tugas\obj\Debug\net6.0\ref\PBO duo tugas.dll

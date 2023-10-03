@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PBO duo tugas/1.0.0": {
+        "runtime": {
+          "PBO duo tugas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBO duo tugas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
