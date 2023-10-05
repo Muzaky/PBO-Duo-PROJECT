@@ -42,8 +42,8 @@ namespace Heroes
                     var random = new Random();
                     var list = new List<byte> { 1, 2, 3, 4 };
                     byte index = (byte)random.Next(list.Count);
-                    int crits = index;
-
+                    int crits = list[index];
+                    
                     if (crits == 4)
                     {
                         Console.WriteLine("Your skill Trigger passive 'Coup de Grace'");
@@ -68,7 +68,7 @@ namespace Heroes
                     var random = new Random();
                     var list = new List<byte> { 1, 2, 3, 4 };
                     byte index = (byte)random.Next(list.Count);
-                    int crits = index;
+                    int crits = list[index];
 
                     if (crits == 4)
                     {
@@ -79,6 +79,10 @@ namespace Heroes
                     {
                         Console.WriteLine();
                     }
+                }
+                else
+                {
+                    Console.WriteLine("Using Phantom Strike !");
                 }
             }
             if (skill == "3")
