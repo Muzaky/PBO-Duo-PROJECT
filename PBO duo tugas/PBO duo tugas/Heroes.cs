@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -90,7 +90,7 @@ namespace Heroes
                 Console.WriteLine("Using Blur");
             }
         }
-        public void Levelup()
+        protected void Levelup()
         {
             string actions1;
             Console.WriteLine("Choose lane to farm 1/2/3");
@@ -144,6 +144,10 @@ namespace Heroes
             
            
             
+        }
+        public void getlevelup()
+        {
+            Levelup();
         }
     }
     class Actions : Heroes
